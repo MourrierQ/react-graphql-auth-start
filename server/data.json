@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "John",
+      "email": "test@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "id": "2",
+      "username": "Jane",
+      "email": "test1@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "id": "3",
+      "username": "Bill",
+      "email": "test2@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "id": "4",
+      "username": "Will",
+      "email": "test3@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "id": "5",
+      "username": "Rob",
+      "email": "test4@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "id": "6",
+      "username": "Jack",
+      "email": "test5@gmail.com",
+      "password": "tratatayaa"
+    },
+    {
+      "username": "Merlin",
+      "email": "dtc@tets.com",
+      "password": "kaamelott",
+      "id": "Vj02uAs"
+    },
+    {
+      "username": "Merlin2",
+      "email": "dtc@tets.com",
+      "password": "kaamelott",
+      "id": "7M_UNud"
+    },
+    {
+      "username": "Merlin2",
+      "email": "dtc@tets.com",
+      "password": "kaamelott",
+      "id": "mLsXOXA"
+    }
+  ]
+}
